@@ -1,0 +1,30 @@
+#brand-logo {
+  font-size: 30px;
+}
+
+#app-navbar {
+  background: linear-gradient(120deg, #00e4d0, #5983e8);
+}
+
+.card-img-top.w-100.d-block.servicecard {
+  /*border-radius: 15px;*/
+  /*box-shadow: 5px 10px #ffff;*/
+}
+
+.card.servicec {
+  border-radius: 20px;
+}
+
+#btnshow {
+  border-radius: 10px;
+}
+
+#divicon {
+  border-radius: 50px;
+}
+
+.colourwork {
+  border-radius: 15px;
+  box-shadow: 5px 10px #ededed;
+}
+
